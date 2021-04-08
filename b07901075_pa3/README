@@ -1,0 +1,2 @@
+This is the README file of B07901075§õ«Û¾§
+To compile my program, simply type "make" at the same level as bin. And type "./cb input output" to run the binary file, where "input" is the input file and "output" is the output file.
